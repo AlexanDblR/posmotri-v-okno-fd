@@ -48,7 +48,7 @@ ol {
   inline-size: 100%;
   block-size: 100%;
   padding: 30px;
-  padding-bottom: 158px;
+  padding-bottom: 270px;
 }
 
 .result {
@@ -94,6 +94,7 @@ ol {
   position: relative;
   inline-size: 101%;
   margin-block-end: 16px;
+  position: relative;
 }
 
 .result__video {
@@ -354,14 +355,6 @@ ol {
 .search-form__pseudo-checkbox {
   cursor: pointer;
 }
-
-
-/* Позиционирование прелоадеров */
-
-.result__video-container {
-  position: relative;
-}
-
 
 /* Кастомный скроллбар */
 
